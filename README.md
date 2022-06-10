@@ -11,3 +11,5 @@ Additionaly, there is a task to test the models for making the predictions, if a
 correlation between russian losses and weather conditions would be found. After the
 experementing, the goal is to find the best model, tune its parameters and discuss why
 other failed.
+
+## Authors: Taras Rodzin, Taras Svystun
